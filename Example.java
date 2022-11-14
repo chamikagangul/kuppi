@@ -39,6 +39,7 @@ class Example{
 	}
 	
 	public static void addNewStudent(){
+		System.out.print("git change");
 		Scanner input=new Scanner(System.in);
 		L1:do{
 			System.out.print("Enter Student ID    : ");

@@ -7,7 +7,6 @@ class Student{
     public Student(String name, int age,String school){
         this.name = name;
         this.age = age;
-        this.school = school
-    }// my comments are not changed for the 
-
+        this.school = school;
+    }
 }
